@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Udemy/static/css/main.65e78204.chunk.css",
+    "main.js": "/Udemy/static/js/main.1e95049b.chunk.js",
+    "main.js.map": "/Udemy/static/js/main.1e95049b.chunk.js.map",
+    "runtime-main.js": "/Udemy/static/js/runtime-main.5555b314.js",
+    "runtime-main.js.map": "/Udemy/static/js/runtime-main.5555b314.js.map",
+    "static/js/2.da6c00a3.chunk.js": "/Udemy/static/js/2.da6c00a3.chunk.js",
+    "static/js/2.da6c00a3.chunk.js.map": "/Udemy/static/js/2.da6c00a3.chunk.js.map",
+    "index.html": "/Udemy/index.html",
+    "precache-manifest.c1c7cf557410713a54fb12004f222108.js": "/Udemy/precache-manifest.c1c7cf557410713a54fb12004f222108.js",
+    "service-worker.js": "/Udemy/service-worker.js",
+    "static/css/main.65e78204.chunk.css.map": "/Udemy/static/css/main.65e78204.chunk.css.map",
+    "static/js/2.da6c00a3.chunk.js.LICENSE.txt": "/Udemy/static/js/2.da6c00a3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Udemy/static/media/udemy_home.7dc11bef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5555b314.js",
+    "static/js/2.da6c00a3.chunk.js",
+    "static/css/main.65e78204.chunk.css",
+    "static/js/main.1e95049b.chunk.js"
+  ]
+}
