@@ -26,7 +26,7 @@ function App() {
         <Navbar islogin={islogin} setIslogin={setIslogin} searchVal={searchVal} setsearchVal={setsearchVal} setstartSearch={setstartSearch} data={data}  setData={setData} count={count}  setcount={setcount}/>
         {startSearch ? <Redirect to={`/search/${searchVal.split(' ').join('-').split('|').join('')}`} /> : null}
         <Switch>
-          <Route exact path="/Udemy"><MidHome setsearchVal={setsearchVal} startSearch={startSearch} setstartSearch={setstartSearch}  /></Route>
+          <Route exact path="/"><MidHome setsearchVal={setsearchVal} startSearch={startSearch} setstartSearch={setstartSearch}  /></Route>
           <Route exact path={`/courses/`}><SingleCousesnone /> </Route>
           <Route exact path={`/search/`}><SearchContentnone /> </Route>
           <Route path={`/courses/:topicId`}><SingleCouses setData={setData} data={data} setcount={setcount} islogin={islogin}/> </Route>
