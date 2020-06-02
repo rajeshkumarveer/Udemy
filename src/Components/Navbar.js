@@ -33,7 +33,7 @@ export default function Navbar(props) {
     return (
 
         <nav className="navbar navbar-expand-md navbar-light bg-light">
-            <a href="/"><img src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" className="navbar-brand" width="110vh" href="/" alt="Brand" /></a>
+            <a href="/Udemy"><img src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" className="navbar-brand" width="110vh" href="/" alt="Brand" /></a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
             </button>
